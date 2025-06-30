@@ -43,7 +43,7 @@
 
 ## 🌐 Live Demo
 
-Coming soon...
+Coming soon
 
 ---
 
