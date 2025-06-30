@@ -27,7 +27,7 @@
    ```bash
    git clone https://github.com/yourusername/laughscript.git
    cd laughscript
-````
+   ```
 
 2. Install frontend dependencies:
 
