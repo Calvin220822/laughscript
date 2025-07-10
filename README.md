@@ -48,8 +48,7 @@ Coming soon
 ---
 
 ## 🧃 License
-
-MIT – Free for fun, or commercial use with proper attribution. Just don’t sell knockoff pandas.
+This project is licensed under the [WTFPL](http://www.wtfpl.net/) – Do What the F*ck You Want to Public License.
 
 ---
 
